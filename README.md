@@ -1,2 +1,1 @@
-# app
-Causal Forests and D-Separation Analysis of Investment Experience Effects on Financial Well-Being with Advanced Machine Learning Techniques
+This repository applies causal forests and d-separation techniques to analyze how investment experience impacts financial well-being. Leveraging large language models (LLMs) for text analysis and DoubleML with SHAP, it provides detailed insights into financial anxiety and returns.

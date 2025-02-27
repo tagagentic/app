@@ -88,9 +88,5 @@ O notebook gera diversos artefatos no diretório de saída:
 
 O notebook verifica automaticamente se está sendo executado no ambiente Google Colab e ajusta os caminhos conforme necessário. A execução principal ocorre através da função `if __name__ == "__main__":` que orquestra todo o fluxo de trabalho.
 
-## Palavras-chave
-
-Análise de Sensibilidade, Robustez, Intervenção em Ansiedade, Inferência Causal, SHAP, LLMs, Visualização de Dados, Aprendizado de Máquina, Validação, Generalização
-
 ## Autor
 Hélio Craveiro Pessoa Júnior
